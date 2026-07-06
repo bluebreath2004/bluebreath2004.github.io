@@ -1,8 +1,8 @@
 # Basic Information 
-title: 王晓宝
-position: Ph.D & Associate Professor
-affiliation:  Tianjin University (TJU)
-email: wangxiaobao@tju.edu.cn
+title: 王龙标
+position: 人工智能学院 博导/硕导
+affiliation:  天津大学北洋园校区计算机学院55号楼B311
+email: longbiao_wang@tju.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,15 +12,15 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=fMAvbmYAAAAJ
-dblp_link: https://dblp.uni-trier.de/pid/122/4465.html
+google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=1Z9_5ZgAAAAJ
+dblp_link: https://dblp.org/db/about/index
 github_link: https://github.com/
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/profile.jpg
+avatar: ./assets/img/longbiaowang.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
