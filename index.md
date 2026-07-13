@@ -794,3 +794,262 @@ layout: homepage
 </ul>
 
 </div>
+
+
+## Collaborators {#collaborators}
+
+
+<h3 class="why">Academic Collaborators（科研合作）</h3>
+
+<div class="collaborator-grid">
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\nus_logo.jpg" alt="NUS Logo">
+    </div>
+    <div>
+        <h4>新加坡国立大学</h4>
+        <ul>
+            <li>葛檬：语音分离和说话人提取</li>
+            <li>司宇珂：口语理解与对话交互</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\ntu_logo.jpeg" alt="NTU Logo">
+    </div>
+    <div>
+        <h4>南洋理工大学</h4>
+        <ul>
+            <li>郭丽丽：语音情感识别</li>
+            <li>葛檬：语音分离和说话人提取</li>
+            <li>刘佳星：多模态情感识别</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\astar_logo.jpeg" alt="A STAR Logo">
+    </div>
+    <div>
+        <h4>新加坡科技研究局</h4>
+        <ul>
+            <li>刘猛：视听唇动说话人识别</li>
+            <li>周到：说话人识别中区分性损失函数设计</li>
+            <li>武艺博：噪声环境下说话人识别与增强</li>
+            <li>章瀚逸：面向域不变说话人识别的元泛化方法</li>
+            <li>陈晖：协同元学习的自监督说话人识别</li>
+            <li>刘晓晖：Transformer变体在声纹反欺诈中的应用</li>
+            <li>孙瑶：基于元学习的远场说话人识别</li>
+            <li>张林娟：声纹识别与声纹反欺诈的联合优化</li>
+            <li>刘吉：多模态深度鉴伪</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\jaist_logo.png" alt="JAIST Logo">
+    </div>
+    <div>
+        <h4>北陆先端科学技术大学院大学</h4>
+        <ul>
+            <li>李忠杰：基于多模态融合的意图理解</li>
+            <li>赵彬：情报专业</li>
+            <li>李凯：说话人匿名化</li>
+            <li>魏文青：多模态对话系统满意度预测</li>
+            <li>李楠：鲁棒性语音端点检测</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\kyodai_logo.png" alt="Kyoto Logo">
+    </div>
+    <div>
+        <h4>京都大学</h4>
+        <ul>
+            <li>史昊：鲁棒语音识别</li>
+            <li>高源：语音情感识别</li>
+            <li>傅雅慧：口语对话系统</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\todai_logo.png" alt="Tokyo Logo">
+    </div>
+    <div>
+        <h4>东京大学</h4>
+        <ul>
+            <li>林羽钦：发音不准确的语音识别</li>
+        </ul>
+    </div>
+</div>
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\nii_logo.jpg" alt="Tokyo Logo">
+    </div>
+    <div>
+        <h4>日本国立情报学研究所</h4>
+        <ul>
+            <li>贡诚：低数据场景下的语音合成</li>
+        </ul>
+    </div>
+</div>
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\cuhk_logo.png" alt="Tokyo Logo">
+    </div>
+    <div>
+        <h4>香港中文大学</h4>
+        <ul>
+            <li>章瀚逸：说话人识别</li>
+            <li>贡诚：多风格语音合成、低计算资源语音合成</li>
+        </ul>
+    </div>
+</div>
+</div>
+
+
+
+<h3 class="why">Industry Collaborators（企业合作）</h3>
+
+
+<div class="collaborator-grid">
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\huawei_logo.png" alt="Huawei">
+    </div>
+    <div>
+        <h4>华为技术有限公司</h4>
+        <ul>
+            <li>语音增强与分离</li>
+            <li>预训练大模型</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\alibaba_logo.png" alt="Alibaba">
+    </div>
+    <div>
+        <h4>阿里巴巴集团控股有限公司</h4>
+        <ul>
+            <li>语音增强</li>
+            <li>语音识别</li>
+            <li>语音合成</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\didi_logo.jpeg" alt="Didi">
+    </div>
+    <div>
+        <h4>滴滴出行科技有限公司</h4>
+        <ul>
+            <li>语音增强</li>
+            <li>多轮对话生成</li>
+            <li>多通道语音分离</li>
+        </ul>
+    </div>
+</div>
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\hengyin_logo.jpg" alt="Didi">
+    </div>
+    <div>
+        <h4>恒银金融科技股份有限公司</h4>
+        <ul>
+            <li>语音识别与交互</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\xiaomi_logo.png" alt="Xiaomi">
+    </div>
+    <div>
+        <h4>小米科技有限责任公司</h4>
+        <ul>
+            <li>语音缺陷检测</li>
+            <li>声学模型</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\huiyan_logo.jpg" alt="Huiyan">
+    </div>
+    <div>
+        <h4>慧言科技(天津)有限公司</h4>
+        <ul>
+            <li>中英文混读语音合成算法</li>
+            <li>语言模型</li>
+            <li>语音预训练</li>
+            <li>C++解码器开发</li>
+            <li>端到端流式语音识别</li>
+            <li>多音字消歧和韵律边界预测</li>
+            <li>语音合成前端</li>
+            <li>语种识别</li>
+            <li>语音唤醒</li>
+            <li>语音识别解码器</li>
+            <li>对话状态追踪</li>
+            <li>噪声鲁棒性声纹识别</li>
+            <li>语音识别</li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\zhongqiyan.jpeg" alt="CATARC">
+    </div>
+    <div>
+        <h4>中国汽车技术研究中心有限公司</h4>
+        <ul>
+            <li>单通道语音增强</li>
+            <li>语音识别</li>
+        </ul>
+    </div>
+</div>
+
+<div class="collaborator-card">
+    <div class="collaborator-logo">
+        <img src="assets\img\collab\newland_logo.jpeg" alt="CATARC">
+    </div>
+    <div>
+        <h4>新大陆科技集团有限公司</h4>
+        <ul>
+            <li>单通道语音增强</li>
+            <li>语音识别</li>
+        </ul>
+    </div>
+</div>
+
+</div>
