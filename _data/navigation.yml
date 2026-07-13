@@ -1,11 +1,15 @@
 - name: About
   link: "#about"
+- name: Latest News
+  link: "#latest"
 - name: Experience
   link: "#experience"
 - name: Education
   link: "#education"
 - name: Publications
   link: "#publications"
+- name: Projects
+  link: "#projects"
 - name: Contact
   link: "#contact"
 - name: Labs&Students
