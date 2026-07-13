@@ -799,7 +799,7 @@ layout: homepage
 ## Collaborators {#collaborators}
 
 
-<h3 class="why">Academic Collaborators（科研合作）</h3>
+<h3 class="why">科研机构</h3>
 
 <div class="collaborator-grid">
 
@@ -925,7 +925,7 @@ layout: homepage
 
 
 
-<h3 class="why">Industry Collaborators（企业合作）</h3>
+<h3 class="why">企业</h3>
 
 
 <div class="collaborator-grid">
