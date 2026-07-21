@@ -141,6 +141,22 @@ layout: homepage
 
 <strong style="color:red">Conference（国际会议论文）</strong>
 <ol>
+    <li>Junyu Wang, Siyuan Zhang, Peiyuan Jiang, Jian Zong, Jingyu Zhang, Tianrui Wang, Yuqin Lin, Zhenghui Chen, Shuqing Xie, Ziyang Ma, Meng Ge, Xiaobao Wang, Longbiao Wang, Jianwu Dang. "EmoS: A Theory-Grounded Framework for Evaluating and Aligning Emotional Intelligence in Spoken Language Models". <span>Proceedings of the ACM International Conference on Multimedia (ACM MM)</span>, 2026.</li>
+
+    <li>Junyu Wang, Jian Zong, Tianrui Wang, Zhengding Luo, Meng Ge, Xiaobao Wang, Longbiao Wang, Jianwu Dang. "MATA: A Training-Free Approach to Mitigate Cross-Modal Attention Imbalance in Large Audio Language Models". <span>INTERSPEECH</span>, 2026.</li>
+
+    <li>Siyuan Zhang, Jian Zong, Junyu Wang, Peiyuan Jiang, Jiahao Yan, Jingyu Zhang, Tianrui Wang, Xiaobao Wang, Longbiao Wang, Jianwu Dang. "EChO-Agent: Evidence Chain Orchestration Agent for Audio Reasoning". <span>INTERSPEECH</span>, 2026.</li>
+
+    <li>Yu Jiang, Cheng Gong, Bin Wen, Ruihao Jing, Tianrui Wang, Shansong Liu, Boyu Zhu, Yuheng Lu, Xuanchen Li, Xiao Wei, Chunyu Qiang, Xiaolei Zhang, Longbiao Wang, Jianwu Dang. "Cognitive-Heuristic Guided Multimodal Data Augmentation for Alzheimer’s Disease Detection Using LLM and TTS". <span>INTERSPEECH</span>, 2026.</li>
+
+    <li>Yiqun Zhou, Ji Liu, Longbiao Wang, Kong Aik Lee. "BiSASV: Bidirectional Feature Modulation with Dual-Granularity Fusion for Spoofing-Robust ASV". <span>INTERSPEECH</span>, 2026.</li>
+
+    <li>Tianrui Wang, Ziyang Ma, Yizhou Peng, Haoyu Wang, Zhikang Niu, Zikang Huang, Yihao Wu, Yi-Wen Chao, Yu Jiang, Yuheng Lu, Guanrou Yang, Xuanchen Li, Hexin Liu, Chunyu Qiang, Cheng Gong, Yifan Yang, Tianchi Liu, Junyu Wang, Nana Hou, Meng Ge, Fuming You, Wei Yang, Zhongqian Sun, Haifeng Hu, Xiaobao Wang, Eng Siong Chng, Xie Chen, Longbiao Wang, Jianwu Dang. "Evaluating the Expressive Appropriateness of Speech in Rich Contexts". <span>INTERSPEECH</span>, 2026.</li>
+
+    <li>Zikang Huang, Meng Ge, Tianrui Wang, Xuanchen Li, Xiaobao Wang, Longbiao Wang, Jianwu Dang. "MSR-HuBERT: Self-supervised Pre-training for Adaptation to Multiple Sampling Rates". <span>INTERSPEECH</span>, 2026.</li>
+
+    <li>Jinyu Li, Xiao Wei, Bin Wen, Kai Li, Yuqin Lin, Xiaobao Wang, Longbiao Wang, Jianwu Dang. "Gated Multi-Graph Fusion via Graph Attention Networks for Alzheimer’s Disease Detection". <span>INTERSPEECH</span>, 2026.</li>
+    
 <li>Nurali Alip, Tianrui Wang, Rui Cao, Meng Ge, Jingru Lin, Longbiao Wang, Jianwu Dang. A Three-Stage Beamforming with Harmonic Guidance for Multi-Channel Speech Enhancement. <span>INTERSPEECH 2025</span>, pp. 1193-1197. DOI: 10.21437/Interspeech.2025-369.</li>
   <li>Xiao Wei, Xiaobao Wang, Ning Zhuang, Chenyang Wang, Longbiao Wang, Jianwu Dang. Integration of Old and New Knowledge for Generalized Intent Discovery: A Consistency-driven Prototype-Prompting Framework. <span>IJCAI 2025</span>, pp. 8286-8294. DOI: 10.24963/ijcai.2025/921.</li>
   <li>Tianrui Wang, Haoyu Wang, Meng Ge, Cheng Gong, Chunyu Qiang, Ziyang Ma, Zikang Huang, Guanrou Yang, Xiaobao Wang, Eng-Siong Chng, Xie Chen, Longbiao Wang, Jianwu Dang. Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis. <span>NeurIPS 2025</span>. Spotlight Paper.</li>
